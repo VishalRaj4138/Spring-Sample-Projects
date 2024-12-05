@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CodeDecode - Udemy.iml" filepath="$PROJECT_DIR$/.idea/CodeDecode - Udemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/food_catalogue/food_catalogue.iml" filepath="$PROJECT_DIR$/food_catalogue/food_catalogue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order/order.iml" filepath="$PROJECT_DIR$/order/order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restaurant_listing/restaurant_listing.iml" filepath="$PROJECT_DIR$/restaurant_listing/restaurant_listing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restaurantlisting/restaurantlisting.iml" filepath="$PROJECT_DIR$/restaurantlisting/restaurantlisting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/userInfo/userInfo.iml" filepath="$PROJECT_DIR$/userInfo/userInfo.iml" />
+    </modules>
+  </component>
+</project>
